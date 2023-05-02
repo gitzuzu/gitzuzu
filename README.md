@@ -1,7 +1,7 @@
 Hi 👋 My name is Zeina Hesham
 =============================
 
-I am a second year computer science student, and I am so excited for what the future has to offer. I am currently aspiring to learn as much as I can because who knew computer science could be so fun? Certainly not highschool me !
+I am a second year computer science student, and I am so excited for what the future has to offer. I am currently aspiring to learn as much as I can because who knew computer science could be so fun? Certainly not highschool me!
 
 * 🚀  I'm currently working on [FRNTR- furniture ecommerce store](http://https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber)
 * 🧠  I'm learning Node.js & Express
