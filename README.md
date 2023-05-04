@@ -6,6 +6,7 @@ I am a second year computer science student, and I am so excited for what the fu
 * 🚀  I'm currently working on [FRNTR- furniture ecommerce store](https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber)
 * 🧠  I'm learning Node.js & Express
 * ✉️  You can contact me at [zeinahesham2022@gmail.com](mailto:zeinahesham2022@gmail.com) or [zeina2101569@miuegypt.edu.eg](mailto:zeina2101569@miuegypt.edu.eg)
+* ⚡  Fun Fact I used to have a blog that I updated weekly with book suggestions because I was a huge bookworm back in highschool.
 ### Skills
 
 <p align="left">
@@ -33,5 +34,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
