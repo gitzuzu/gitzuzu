@@ -3,8 +3,8 @@ Hi 👋 My name is Zeina Hesham
 
 I am a second year computer science student, and I am so excited for what the future has to offer. I am currently aspiring to learn as much as I can because who knew computer science could be so fun? Certainly not highschool me!
 
-* 🚀  I'm currently working on [FRNTR- furniture ecommerce store](https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber)
-* 🧠  I'm learning Node.js & Express
+* 🚀  I'm currently working on [FRNTR- furniture ecommerce store](https://github.com/nouranMo/FRNTR)
+* 🧠  I'm learning React
 * ✉️  You can contact me at [zeinahesham2022@gmail.com](mailto:zeinahesham2022@gmail.com) or [zeina2101569@miuegypt.edu.eg](mailto:zeina2101569@miuegypt.edu.eg)
 * ⚡  Fun Fact I used to have a blog that I updated weekly with book suggestions because I was a huge bookworm back in highschool.
 ### Skills
