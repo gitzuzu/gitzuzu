@@ -1,7 +1,7 @@
 Hi 👋 My name is Zeina Hesham
 =============================
 
-I am a third year computer science student, and I am so excited for what the future has to offer. I am currently aspiring to learn as much as I can because who knew computer science could be so fun? Certainly not high school me!
+I am a senior computer science student and so excited about what the future has to offer. I aspire to learn as much as possible because who knew computer science could be so fun? Certainly not high school me!
 
 * 🚀  I'm currently working on [Volunteens web application](https://github.com/gitzuzu/VolunTeens)
 * 🧠  I'm learning flutter
