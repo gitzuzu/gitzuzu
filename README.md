@@ -3,8 +3,8 @@ Hi 👋 My name is Zeina Hesham
 
 I am a third year computer science student, and I am so excited for what the future has to offer. I am currently aspiring to learn as much as I can because who knew computer science could be so fun? Certainly not high school me!
 
-* 🚀  I'm currently working on [RMS- Restaurant Management System](https://github.com/gitzuzu/restaurant-management-system)
-* 🧠  I'm learning .Net and Springboot
+* 🚀  I'm currently working on [Volunteens web application](https://github.com/gitzuzu/VolunTeens)
+* 🧠  I'm learning flutter
 * ✉️  You can contact me at [zeinahesham2022@gmail.com](mailto:zeinahesham2022@gmail.com) or [zeina2101569@miuegypt.edu.eg](mailto:zeina2101569@miuegypt.edu.eg)
 * ⚡  Fun Fact I used to have a blog that I updated weekly with book suggestions because I was a huge bookworm back in high school.
 ### Skills
